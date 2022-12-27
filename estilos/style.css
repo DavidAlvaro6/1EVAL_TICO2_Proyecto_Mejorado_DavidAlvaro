@@ -42,3 +42,15 @@ caption{
     font-variant: small-caps;
     text-decoration:overline;
 }
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
